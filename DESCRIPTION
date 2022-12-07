@@ -1,0 +1,17 @@
+Package: StatComp22038
+Type: Package
+Title: Final homework for 'Statistical Computing' course
+Version: 1.0
+Date: 2022-12-02
+Author: 22038
+Maintainer: Jiaying <jy100@mai.ustc.edu.cn>
+Description: StatComp22038 homework
+License: GPL (>= 2)
+Imports: boot, bootstrap, DAAG, lmPerm, purrr, Rcpp, microbenchmark, elasticnet
+LinkingTo: Rcpp
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 7.1.2
+Encoding: UTF-8
+URL: http://github.com/Keljy/StatComp22038
+BugReports: http://github.com/Keljy/StatComp22038/issues
